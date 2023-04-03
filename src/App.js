@@ -19,7 +19,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React JS 2023
+            Learn React JS 2023 y Russ
           </a>
         </section>
         <section>
